@@ -61,5 +61,5 @@ To provide healthcare decision-makers with an intuitive, interactive visual tool
 
 ---
 
-## 🗂️ Project Structure
+![Healthcare dashboard screenshot](https://github.com/assharma12/Healthcare-Provide-Project/blob/796d0c80347e2994b836677b97133c098bd03ff4/Screenshot%20healthcare.png)
 
